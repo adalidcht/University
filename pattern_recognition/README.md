@@ -1,1 +1,1 @@
-Machine learning algorithms to automatically recognize patterns and regularities in data.
+Algorithms to automatically recognize patterns and regularities in data.
